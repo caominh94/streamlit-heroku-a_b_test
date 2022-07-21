@@ -1,1 +1,2 @@
 streamlit==1.11.0
+ipython==7.23.1
